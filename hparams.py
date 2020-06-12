@@ -1,5 +1,5 @@
 import tensorflow as tf
-from text import symbols
+from text.symbols import eng_symbols, kor_symbols
 
 
 def create_hparams(hparams_string=None, verbose=False):
@@ -14,9 +14,10 @@ def create_hparams(hparams_string=None, verbose=False):
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
-        distributed_run=False,
+        distributed_run=True,
+
         dist_backend="nccl",
-        dist_url="tcp://localhost:54321",
+        dist_url="tcp://localhost:54323",
         cudnn_enabled=True,
         cudnn_benchmark=False,
         ignore_layers=['embedding.weight'],
@@ -25,9 +26,9 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/ljs_audio_text_train_filelist.txt',
-        validation_files='filelists/ljs_audio_text_val_filelist.txt',
-        text_cleaners=['english_cleaners'],
+        training_files='filelists/kss_train_filelist_v3.txt',
+        validation_files='filelists/kss_val_filelist_v3.txt',
+        text_cleaners=['korean_cleaners'],  # english_cleaners, korean_cleaners
 
         ################################
         # Audio Parameters             #
@@ -44,7 +45,7 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Model Parameters             #
         ################################
-        n_symbols=len(symbols),
+        n_symbols=len(kor_symbols),
         symbols_embedding_dim=512,
 
         # Encoder parameters
@@ -81,15 +82,15 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1e-3,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=64,
+        batch_size=32,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
     if hparams_string:
-        tf.logging.info('Parsing command line hparams: %s', hparams_string)
+        tf.compat.v1.logging.info('Parsing command line hparams: %s', hparams_string)
         hparams.parse(hparams_string)
 
     if verbose:
-        tf.logging.info('Final parsed hparams: %s', hparams.values())
+        tf.compat.v1.logging.info('Final parsed hparams: %s', hparams.values())
 
     return hparams

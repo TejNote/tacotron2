@@ -1,0 +1,101 @@
+
+./resampled/3_4938.wav|출구 없음
+./resampled/3_4939.wav|그 사람이 범인임이 분명해.
+./resampled/3_4940.wav|요즘은 책을 보기도 귀찮아요.
+./resampled/3_4941.wav|아내는 서울에 있고, 저는 직장 때문에 제주도에 있습니다.
+./resampled/3_4942.wav|주말에는 보통 영화를 보거나 책을 읽어요.
+./resampled/3_4943.wav|하든지 말든지 이제 상관 안 할래.
+./resampled/3_4944.wav|이제 집에 가도 돼요?
+./resampled/3_4945.wav|내일 비가 내려도 소풍을 가나요?
+./resampled/3_4946.wav|부탁 하나 해도 될까요?
+./resampled/3_4947.wav|바지는 잘 맞지만 셔츠는 너무 껴요.
+./resampled/3_4948.wav|비가 많이 오는데, 꼭 나가야 해요?
+./resampled/3_4949.wav|여기는 추운데 그곳 날씨는 어때요?
+./resampled/3_4950.wav|품질은 좋은데 약간 비싸네요.
+./resampled/3_4951.wav|우리 걸으면서 얘기 좀 하자.
+./resampled/3_4952.wav|거울 보면서 연습하고 있어요.
+./resampled/3_4953.wav|눈을 감아 봐.
+./resampled/3_4954.wav|찬성하시면 손을 들어 주세요.
+./resampled/3_4955.wav|들어와서 커피 한 잔 해.
+./resampled/3_4956.wav|무슨 일이 있더라도 나는 네 편이야.
+./resampled/3_4957.wav|점심 먹으러 식당에 가다가 소영이를 만났어요.
+./resampled/3_4958.wav|누구 만나러 오셨어요?
+./resampled/3_4959.wav|좀 적게 먹으려고 노력 중이야.
+./resampled/3_4960.wav|제 집을 마련하려고 저축을 하고 있습니다.
+./resampled/3_4961.wav|아버지가 편히 주무시도록 조용히 해라.
+./resampled/3_4962.wav|이 노래는 들을수록 좋아.
+./resampled/3_4963.wav|생각할수록 더 화가 나.
+./resampled/3_4964.wav|돈이 있으면 좀 빌려 줄래?
+./resampled/3_4965.wav|서두르면 기차를 탈 수 있을 거야.
+./resampled/3_4966.wav|시간이 있거든 놀러 와라.
+./resampled/3_4967.wav|미국에 가려면 영어를 할 줄 알아야 해요.
+./resampled/3_4968.wav|사람은 먹어야 산다.
+./resampled/3_4969.wav|건강해야 일도 할 수 있죠.
+./resampled/3_4970.wav|좋은 자리를 잡으려면 서둘러야 해.
+./resampled/3_4971.wav|성공을 하려면 남들보다 더 노력해야 해.
+./resampled/3_4972.wav|땀이 비 오듯이 쏟아져요.
+./resampled/3_4973.wav|늦었으니까 택시를 탑시다.
+./resampled/3_4974.wav|밖이 추우니까 옷을 따뜻하게 입어라.
+./resampled/3_4975.wav|행복하게 살아라.
+./resampled/3_4976.wav|춥지 않아?
+./resampled/1_0313.wav|저는 걱정하지 마세요.
+./resampled/1_0314.wav|옷걸이에 코트를 걸어라.
+./resampled/1_0315.wav|그녀에게 다가가서 말을 걸었습니다.
+./resampled/1_0316.wav|전화 잘못 거셨어요.
+./resampled/1_0317.wav|벽에 많은 옷이 걸려 있다.
+./resampled/1_0318.wav|감기에 걸렸어요.
+./resampled/1_0319.wav|끝내려면 두 시간쯤 걸릴 거예요.
+./resampled/1_0320.wav|집에서 회사까지 지하철로 얼마나 걸려요?
+./resampled/1_0321.wav|길을 건너면 은행이 있어요.
+./resampled/1_0322.wav|돌다리도 두드려 보고 건너라.
+./resampled/1_0323.wav|보통은 회사에 그냥 걸어가요.
+./resampled/1_0324.wav|저쪽으로 걸어가십시오.
+./resampled/1_0325.wav|여기까지 걸어왔어요.
+./resampled/4_1913.wav|집 안은 아주 고요했어요.
+./resampled/4_1914.wav|9번 문제의 답이 뭐니?
+./resampled/4_1915.wav|마포구
+./resampled/4_1916.wav|진짜인지 가짜인지 구분이 힘드네요.
+./resampled/4_1917.wav|꿈과 현실을 구별하지 못하는 사람이 가끔 있어요.
+./resampled/4_1918.wav|좀 더 구체적인 예를 들어 주세요.
+./resampled/4_1919.wav|마포구청
+./resampled/4_1920.wav|남편과 저는 아이를 낳지 않기로 마음을 굳혔어요.
+./resampled/4_1921.wav|구두 닦으세요.
+./resampled/4_1922.wav|저는 고등학교에서 국어를 가르칩니다.
+./resampled/4_1923.wav|서울은 구경할 곳이 많아요.
+./resampled/4_1924.wav|도와 드릴까요? - 아뇨, 그냥 구경하는 중이에요.
+./resampled/4_1925.wav|직원 구함
+./resampled/4_1926.wav|직장 구하셨어요?
+./resampled/4_1927.wav|구해 주세요!
+./resampled/4_1928.wav|제품 구입에 관한 질문은 어디로 해야 하죠?
+./resampled/4_1929.wav|다른 일이 있으면 굳이 오시지 않아도 됩니다.
+./resampled/4_1930.wav|이 문장은 구조가 좀 이상한데.
+./resampled/4_1931.wav|국에 머리카락이 있어요.
+./resampled/4_1932.wav|국제 전화 걸려면 어떻게 해야 합니까?
+./resampled/4_1933.wav|국제화 시대에 영어는 매우 중요해요.
+./resampled/4_1934.wav|그 사람은 국제적으로 잘 알려져 있어요.
+./resampled/4_1935.wav|국적이 어디세요?
+./resampled/4_1936.wav|현재 많은 아시아 국가들이 경제 위기를 겪고 있습니다.
+./resampled/4_1937.wav|국가적으로 중요한 문제
+./resampled/4_1938.wav|국기 달았니?
+./resampled/4_1939.wav|정기 국회가 내일 열립니다.
+./resampled/4_1940.wav|삼촌은 국회의원이세요.
+./resampled/4_1941.wav|국사는 제가 제일 좋아하는 과목이에요.
+./resampled/4_1942.wav|이 제품은 국산 기술로 만들었어요.
+./resampled/4_1943.wav|이 국수 정말 맛있네요.
+./resampled/4_1944.wav|고기를 굵게 썰어 주세요.
+./resampled/4_4037.wav|그 문제는 지금 논의 중이에요.
+./resampled/4_4038.wav|졸업 논문의 주제가 무엇입니까?
+./resampled/4_4039.wav|이 빌딩 높이가 얼마나 되죠?
+./resampled/4_4040.wav|손을 높이 드세요.
+./resampled/4_4041.wav|볼륨을 좀 높여 주세요.
+./resampled/4_4042.wav|나는 높은 곳이 무서워.
+./resampled/4_4043.wav|우리 누나는 눈이 너무 높아서 시집을 못 갈 거야.
+./resampled/4_4044.wav|저 노래 잘 못해요.
+./resampled/4_4045.wav|어제 퇴근 후에 아내랑 노래방에 갔어요.
+./resampled/4_4046.wav|노란색 펜이 필요해요.
+./resampled/4_4047.wav|노란 우산
+./resampled/4_4048.wav|한국의 전통 놀이에는 뭐가 있나요?
+./resampled/4_4049.wav|오늘은 놀이터에 애들이 정말 많네.
+./resampled/4_4050.wav|저는 가능하면 많은 책을 읽으려고 노력하고 있어요.
+./resampled/4_4051.wav|서울의 지하철 노선은 꽤 복잡해요.
+./resampled/4_4052.wav|이 상자 어디에 놓을까요?
